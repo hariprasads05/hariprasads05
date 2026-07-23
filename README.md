@@ -1,5 +1,5 @@
  # 💫 About Me:
-I am a Student
+"I'm a data analyst and full-stack developer passionate about building intelligent solutions. Skilled in Python, SQL, PowerBI, Tableau, and web technologies (JavaScript, PHP, MySQL). Recently completed data analytics simulation with Deloitte Australia. Recently completed Master's in Computer Applications at Kuvempu University. Check out my projects on GitHub — I build real-time systems like driver drowsiness detection and vehicle registration platforms. Open to internship opportunities in data analytics or web development!"
 
 
 ## 🌐 Socials:
